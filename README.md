@@ -12,7 +12,7 @@ Student passed:
 - Linear Algebra
 
 ## I. Table of contents:
-- Week 1: Python programming basic review
+- Week 1: Basic Python programming review
     + Setup python environment
     + Functions programming
     + Object oriented programming
@@ -37,10 +37,10 @@ Student passed:
     + Understading distributed strategy
     + Applying data processing with multi-worker processing
     + Building asynchronous task for web application
-- Week 6: Image processing with opencv
+- Week 6: Basic image processing with opencv
     + Understading basic image processing and computer vision
     + (cnt)
-- Week 7: Text processing with NLTK
+- Week 7: Basic text processing with NLTK
     + Understading basic text processing and natural language processing
     + (cnt)
 - Week 8 -> 11: Final project (70% final score)
